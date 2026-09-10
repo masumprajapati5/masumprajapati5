@@ -26,7 +26,9 @@
 ###
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,git,github,npm,vscode,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,npm,vscode,figma,vercel,netlify&perline=50" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gsap.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/framer.svg" width="48" height="48" />
 </p>
 
 ###
