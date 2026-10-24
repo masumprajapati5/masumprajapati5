@@ -27,6 +27,7 @@
 
 
 <div align="left">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="HTML5" />
   <img width="7" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="CSS3" />
@@ -36,22 +37,32 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="Tailwind CSS" />
   <img width="7" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="React" />
+
+  <!-- Design & Animation -->
   <img width="7" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="Figma" />
   <img width="7" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="Framer" />
   <img width="7" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" height="40" alt="GSAP" />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/React_Three_Fiber-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="React Three Fiber" />
+
+  <!-- 3D Development -->
   <img width="7" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="Three.js" />
   <img width="7" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="React Three Fiber" />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" height="40" alt="Blender" />
+
+  <!-- Backend & Database -->
+  <img width="7" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="Node.js" />
   <img width="7" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="Express" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="Express.js" />
   <img width="7" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="MongoDB" />
+
+  <!-- Developer Tools -->
   <img width="7" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="Postman" />
   <img width="7" />
@@ -62,12 +73,15 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm" />
   <img width="7" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="Vite" />
+
+  <!-- Deployment -->
   <img width="7" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="Vercel" />
   <img width="7" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="40" alt="Netlify" />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" height="40" alt="Render" />
 </div>
-
 
 ###
 
