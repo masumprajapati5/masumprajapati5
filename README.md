@@ -37,11 +37,11 @@
   <img width="7" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="React" />
   <img width="7" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" height="40" alt="GSAP" />
-  <img width="7" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="Figma" />
   <img width="7" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="Framer Motion" />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" height="40" alt="GSAP" />
   <img width="7" />
   <img src="https://img.shields.io/badge/React_Three_Fiber-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="React Three Fiber" />
   <img width="7" />
